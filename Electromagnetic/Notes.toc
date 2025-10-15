@@ -1,0 +1,29 @@
+\contentsline {chapter}{序言}{1}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}静电场}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}库仑定律}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}电场强度与高斯定律}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}电势与电势的梯度}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}静电场中的导体和电容}{10}{section.1.4}%
+\contentsline {section}{\numberline {1.5}静电能}{14}{section.1.5}%
+\contentsline {section}{\numberline {1.6}电介质}{16}{section.1.6}%
+\contentsline {section}{\numberline {1.7}第一章补充例题}{18}{section.1.7}%
+\contentsline {chapter}{\numberline {2}磁场}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}安培定律}{23}{section.2.1}%
+\contentsline {section}{\numberline {2.2}磁感应强度\, 毕奥-萨伐尔定律}{24}{section.2.2}%
+\contentsline {section}{\numberline {2.3}安培环路定理}{28}{section.2.3}%
+\contentsline {section}{\numberline {2.4}磁场的高斯定理}{30}{section.2.4}%
+\contentsline {section}{\numberline {2.5}带电粒子在磁场中的运动}{31}{section.2.5}%
+\contentsline {chapter}{\numberline {3}磁介质}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}磁化强度和磁化电流}{33}{section.3.1}%
+\contentsline {section}{\numberline {3.2}磁介质中的磁场基本定理}{35}{section.3.2}%
+\contentsline {section}{\numberline {3.3}磁介质的磁化规律和机理}{37}{section.3.3}%
+\contentsline {chapter}{\numberline {4}电磁感应}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}电磁感应定律}{40}{section.4.1}%
+\contentsline {section}{\numberline {4.2}动生电动势和感生电动势}{41}{section.4.2}%
+\contentsline {section}{\numberline {4.3}自感与互感}{44}{section.4.3}%
+\contentsline {section}{\numberline {4.4}暂态过程\, 磁场能量}{45}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Maxwell电磁理论}{48}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Maxwell电磁理论的建立}{48}{section.5.1}%
+\contentsline {section}{\numberline {5.2}电磁波}{53}{section.5.2}%
+\contentsline {section}{\numberline {5.3}电磁场的能量}{56}{section.5.3}%
+\contentsline {section}{\numberline {5.4}电磁场的相对论变换}{58}{section.5.4}%
